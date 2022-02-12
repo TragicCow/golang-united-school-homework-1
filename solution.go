@@ -5,5 +5,5 @@ import (
 )
 
 func GetMessage() string {
-	return "Hello 🗺️!"
+	return "Hello :world_map:!"
 }
